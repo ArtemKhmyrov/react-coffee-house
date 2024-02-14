@@ -1,10 +1,10 @@
-
-
-### Framework
-
-`npm install react react-dom`
-
 ### Packege
 
-`npm install -D webpack webpack-cli webpack-dev-server @babel/core @babel/preset-env @babel/preset-react babel-loader clean-webpack-plugin css-loader html-webpack-plugin mini-css-extract-plugin sass sass-loader style-loader`
 
+
+`npm install --save-dev webpack webpack-cli`
+`npm install react react-dom`
+`npm install --save-dev @babel/core babel-loader @babel/preset-env @babel/preset-react`
+`npm install --save-dev html-webpack-plugin`
+
+[туториал webpack + react](https://www.youtube.com/watch?v=X48Kt8rSByQ)
